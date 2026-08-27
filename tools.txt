@@ -1,1 +1,3 @@
 Feature1 was here
+Feature2 was here
+
